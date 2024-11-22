@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "composite": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "noUnusedLocals": false,
+    // "importHelpers": true,
+    "removeComments": false,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "useUnknownInCatchVariables": false,
+    "sourceMap": false,
+    "allowJs": false,
+    "strictNullChecks": false,
+    "types": ["node"],
+  },
+  "include": ["src/**/*", "src/exceptions", "src/index.ts", "src/enums"],
+  "exclude": ["node_modules", "**/*.test.ts"]
+}

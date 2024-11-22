@@ -1,0 +1,23 @@
+/*!
+ * Original Source: https://github.com/nestjs/nest
+ * Copyright (c) 2017-2024 Kamil Mysliwiec <https://kamilmysliwiec.com>
+ *
+ * Licensed under the MIT License (https://opensource.org/licenses/MIT)
+ * See the LICENSE file in the root directory for more information.
+ *
+ */
+export enum RouteParamtypes {
+  REQUEST = 0,
+  RESPONSE = 1,
+  NEXT = 2,
+  BODY = 3,
+  QUERY = 4,
+  PARAM = 5,
+  HEADERS = 6,
+  SESSION = 7,
+  FILE = 8,
+  FILES = 9,
+  HOST = 10,
+  IP = 11,
+  RAW_BODY = 12,
+}

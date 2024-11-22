@@ -1,0 +1,24 @@
+{
+  "name": "nest-exception",
+  "version": "0.1.0",
+  "main": "dist/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.io/abidta/nest-exception.git"
+  },
+  "keywords": [
+    "exception",
+    "http-error",
+    "http-status",
+    "nest-exception"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.1"
+  }
+}
