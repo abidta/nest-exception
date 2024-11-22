@@ -1,6 +1,6 @@
 # nest-exception
 
-This package is based on [Original Package](https://github.com/nestjs/nest/).
+This package is based on Original [NestJs](https://github.com/nestjs/nest/) Http exceptions.
 
 ## License
 
