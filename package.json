@@ -1,6 +1,6 @@
 {
   "name": "nest-exception",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@types/node": "^22.9.1"
+    "@types/node": "^22.9.1",
+    "tslib": "^2.8.1",
+    "typescript": "^5.6.3"
   }
 }
