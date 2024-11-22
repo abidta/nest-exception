@@ -1,13 +1,13 @@
 {
   "name": "nest-exception",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.io/abidta/nest-exception.git"
+    "url": "https://github.com/abidta/nest-exception.git"
   },
   "keywords": [
     "exception",
