@@ -1,4 +1,5 @@
-
+[![npm version](https://img.shields.io/npm/v/nest-exception?color=brightgreen&label=npm%20package)](https://www.npmjs.org/package/nest-exception)
+&nbsp;
 # nest-exception
 
 This package is based on Original [NestJs](https://github.com/nestjs/nest/) Http exceptions.
